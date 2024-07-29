@@ -117,6 +117,7 @@ const styles = StyleSheet.create({
     borderColor: 'rgba(255, 255, 255, 0.4)',
     borderWidth: 1,
   },
+  
   title: {
     fontSize: 32,
     color: '#61dafb',
