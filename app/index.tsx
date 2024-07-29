@@ -116,7 +116,6 @@ const styles = StyleSheet.create({
     margin: 10,
     borderColor: 'rgba(255, 255, 255, 0.4)',
     borderWidth: 1,
-    // Optional: use a library for blur effect
   },
   title: {
     fontSize: 32,
